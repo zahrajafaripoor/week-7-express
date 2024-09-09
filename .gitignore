@@ -1,0 +1,4 @@
+.Ds-Store
+/node-modules
+.env
+.vscode
